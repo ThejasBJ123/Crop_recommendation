@@ -2,6 +2,12 @@
 
 A Streamlit web app powered by Google Gemini AI that provides smart crop recommendations based on soil type, weather, and region.
 
+Demo video
+
+Uploading video_20250816_221738.mp4…
+
+eo 
+
 🚀 Features
 
 Crop recommendation based on user input
